@@ -1,0 +1,11 @@
+#countBtn {
+    background: blue;
+    color: white;
+    line-height: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+#countBtn:hover {
+    background: rgb(13, 108, 250);
+}

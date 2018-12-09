@@ -1,0 +1,23 @@
+{
+  "name": "pg-service-worker",
+  "version": "1.0.0",
+  "description": "A playground for service worker",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/static ./ --port 8000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neekey/pg-service-worker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neekey/pg-service-worker/issues"
+  },
+  "homepage": "https://github.com/neekey/pg-service-worker#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
+}
