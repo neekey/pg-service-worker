@@ -4,7 +4,7 @@
   "description": "A playground for service worker",
   "main": "index.js",
   "scripts": {
-    "start": "./node_modules/.bin/static ./ --port 8000",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
